@@ -24,13 +24,14 @@ learn more about these topics.
 4. Create a new `assistant.ini` file, copy-paste the following and replace the values with your own:
    ```ini
    [pyrogram]
-   api_id = 12345
+   api_id = 12345606
+   
    api_hash = 0123456789abcdef0123456789abcdef
    bot_token = 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
    ```
 5. Run with `python -m assistant`.
 6. Stop with <kbd>CTRL+C</kbd> and `deactivate` the virtual environment.
 
-## License
+## License 
 
 MIT © 2019-2020 [Dan](//github.com/delivrance)
